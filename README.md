@@ -33,6 +33,8 @@ The analysis used two cleaned datasets:
 
 The activity dataset included 33 unique users, while 24 users had sleep data.
 
+The original dataset is the [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit), a CC0 Public Domain dataset made available through Mobius.
+
 ## Data Preparation
 
 The data was prepared using Microsoft Excel and Power Query.
