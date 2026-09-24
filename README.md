@@ -10,6 +10,10 @@ This project analyses smart device usage data to identify patterns in users' act
 
 The analysis was conducted using Microsoft Excel and Power Query, covering daily activity and sleep data from smart device users.
 
+## Project Context
+
+This project was completed as the capstone project for the **Google Data Analytics Professional Certificate**.
+
 ## Business Task
 
 Analyse smart device usage data to identify trends in users' activity and sleep patterns, and use these insights to develop data-driven recommendations that could support Bellabeat's marketing strategy.
